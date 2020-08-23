@@ -1,3 +1,7 @@
-# Tutorials
-## The simple is power
-[![video](https://img.youtube.com/vi/-9nldrnZMig/0.jpg)](https://www.youtube.com/watch?v=-9nldrnZMig){:target="_blank" rel="noopener"}
+#Freeplane documentation
+## Tutorials
+To be done
+## Examples
+[The simple is power](the_simple_is_power.md)
+## Live mind mapping videos
+To be done
