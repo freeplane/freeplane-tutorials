@@ -28,7 +28,9 @@ Tutorial 01 - Basic 01 - General System Shortcuts - Windows and Freeplane
 
 ## Examples
 
-The Simple is Power <br> [![video](https://img.youtube.com/vi/-9nldrnZMig/mqdefault.jpg)](https://www.youtube.com/watch?v=-9nldrnZMig){:target="_blank" rel="noopener"} <br>[Learn More](the_simple_is_power.md)
+The Simple is Power <br>
+[![video](https://img.youtube.com/vi/-9nldrnZMig/mqdefault.jpg)](https://www.youtube.com/watch?v=-9nldrnZMig){:target="_blank" rel="noopener"} <br>
+[Learn More](the_simple_is_power.md)
 
 ### Tutorial - Expert
 
