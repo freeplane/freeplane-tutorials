@@ -1,5 +1,5 @@
 # Freeplane documentation
-test
+
 ## Tutorials
 
 ### Intro - Beginners
