@@ -24,7 +24,15 @@ Terminology 01 - Root - Parent - Child - Sibling - Summary - Floating - Nodes
 
 ### Tutorial - Basic
 
-Tutorial 01 - Basic 01 - General System Shortcuts - Windows and Freeplane
+Tutorial 01 - Basic 01 - General System Shortcuts - Windows and Freeplane <br>
+[![video](https://img.youtube.com/vi/e-mw0IjOq8c/mqdefault.jpg)](https://www.youtube.com/watch?v=e-mw0IjOq8c){:target="_blank" rel="noopener"} <br>
+[Learn More](the_simple_is_power.md)
+
+Tutorial 02 - Basic 02 - New Child Node
+
+Tutorial 03 - Basic 03 - Editing Field
+
+Tutorial 04 - Basic 04 - Creating New Nodes - New Sibling Node
 
 ## Examples
 
