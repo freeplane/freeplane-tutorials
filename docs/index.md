@@ -1,6 +1,8 @@
 # Freeplane documentation
 
+
 ## Tutorials
+
 
 ### Intro - Beginners
 
@@ -49,7 +51,10 @@
 #### 2 - New Child Node <br>
 [![video](https://img.youtube.com/vi/CfC7a38Kf1U/mqdefault.jpg)](https://www.youtube.com/watch?v=CfC7a38Kf1U){:target="_blank" rel="noopener"} <br>
 
-#### 3 - Creating New Nodes - New Sibling Node
+#### 3 - Creating New Nodes - New Sibling Node <br>
+[![video](https://img.youtube.com/vi/WIdnYCVjkHE/mqdefault.jpg)](https://www.youtube.com/watch?v=WIdnYCVjkHE){:target="_blank" rel="noopener"} <br>
+
+
 
 
 
